@@ -1,7 +1,7 @@
 Jinja2==3.0.3
 libsass==0.21.0
 Markdown==3.3.6
-notion_client==0.8.0
+notion_client==2.2.1
 python_dateutil==2.8.2
 mdx_truly_sane_lists
 pymdown-extensions
